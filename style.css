@@ -33,3 +33,10 @@ div#issue1{
     background-color: #87CEFA;
     border: 3pt solid #7B68EE;
 }
+div#repos{
+    font-family: "Arial", sans-serif;
+    background-color: #111111;
+    color: white;
+    width: 45%;
+    border: 7.5px solid gray;
+}
