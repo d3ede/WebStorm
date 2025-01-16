@@ -1,3 +1,10 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 img{
     border: 4px solid #C71585;
     border-radius: 15px;
@@ -18,4 +25,11 @@ ul{
     margin-left: 1%;
     border: 1.5pt dotted #333333;
     width: 30%;
+}
+div#issue1{
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    background-color: #87CEFA;
+    border: 3pt solid #7B68EE;
 }
