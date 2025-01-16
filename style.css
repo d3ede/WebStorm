@@ -19,3 +19,10 @@ ul{
     border: 1.5pt dotted #333333;
     width: 30%;
 }
+div#repos{
+    font-family: "Arial", sans-serif;
+    background-color: #111111;
+    color: white;
+    width: 45%;
+    border: 7.5px solid gray;
+}
